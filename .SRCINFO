@@ -1,11 +1,11 @@
 pkgbase = package
 	pkgdesc = Dummy package used to exercise the aur-workflow CI/publish pipeline (tracks tagged releases)
-	pkgver = 0.3.1
+	pkgver = 0.3.3
 	pkgrel = 1
 	url = https://github.com/its-me/dummy.releases
 	arch = any
 	license = MIT
-	source = dummy.releases-0.3.1.tar.gz::https://github.com/its-me/dummy.releases/archive/refs/tags/v0.3.1.tar.gz
-	sha256sums = 3c19ee8557baf28747cc4aa3f4396972b7373790e343e5998d7a7ddd309a6bf8
+	source = dummy.releases-0.3.3.tar.gz::https://github.com/its-me/dummy.releases/archive/refs/tags/v0.3.3.tar.gz
+	sha256sums = db8f3807e4be364a41fe8f667900303a50ce771acd88ee18e164e2abef134176
 
 pkgname = package
